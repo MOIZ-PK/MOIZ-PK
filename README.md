@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux,Developer operations
 - 🌱 I’m currently learning Devops
 - 💞️ Developed AR(Augmented Reality) App as a final year project 
-- 📫 How to reach me on twitter @moizhassnat1
+- 📫 Reach me on twitter @moizhassnat1
 
 <!---
 MOIZ-PK/MOIZ-PK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
