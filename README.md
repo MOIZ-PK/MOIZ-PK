@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Moiz Hassnat
-- 👀 I’m interested in Linux,Developer operations
-- 🌱 I’m currently learning Devops
+- 👀 I’m interested in Linux, Development, DeveloperOperations
 - 💞️ Developed AR(Augmented Reality) App as a final year project 
 - 📫 Reach me on twitter @moizhassnat1
 
