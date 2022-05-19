@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moiz Hassnat
 - 👀 I’m interested in Linux, Development, DeveloperOperations
-- 💞️ Developed AR(Augmented Reality) App as a final year project 
+- 💞️ Developed AR(Augmented Reality) App's 
 - 📫 Reach me on twitter @moizhassnat1
 
 <!---
