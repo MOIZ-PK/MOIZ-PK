@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moiz Hassnat
-- 👀 I’m interested in Linux, Development, DeveloperOperations
-- 💞️ Developed AR(Augmented Reality) App's 
-- 📫 Reach me on twitter @moizhassnat1
+- 👀 I’m interested in Immersive Technology, Computer Vision, Mobile Application Development
+- 🧑‍💻 Currently working as cross platform application developer and XR/AR Developer.
+- 📫 Reach me out moizhassnat10@outlook.com
 
 <!---
 MOIZ-PK/MOIZ-PK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
